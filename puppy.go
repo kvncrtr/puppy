@@ -22,6 +22,6 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func fromV1() {
+func FromV1() {
 	fmt.Println("I am from version 1")
 }
